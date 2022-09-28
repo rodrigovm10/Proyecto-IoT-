@@ -1,5 +1,4 @@
-# Proyecto-IoT-
-# Proyecto-Los BuenaVista
+# Proyecto-IoT - Los Buena Vista
 
 ## Integrantes: 
     
