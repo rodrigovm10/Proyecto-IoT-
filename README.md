@@ -72,6 +72,6 @@
     |     |                            |           |            | temperatura y humedad                  |                    |
 
 ## Prototipo Dibujo:
+![Captura de pantalla (14)](https://user-images.githubusercontent.com/104101668/192689498-54ab7eb1-9f51-4c97-a00b-28d5eb9976f5.png)
 
-    ![Captura de pantalla (14)](https://user-images.githubusercontent.com/104101668/192689043-4df0848a-dd07-456b-8130-b1b7b093a961.png)
 
