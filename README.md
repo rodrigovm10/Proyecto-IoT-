@@ -73,3 +73,5 @@
 
 ## Prototipo Dibujo:
 
+    ![Captura de pantalla (14)](https://user-images.githubusercontent.com/104101668/192689043-4df0848a-dd07-456b-8130-b1b7b093a961.png)
+
