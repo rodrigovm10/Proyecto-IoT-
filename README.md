@@ -8,7 +8,7 @@
     -Palacios Rangel María Fernanda
     -Vega Montoya Rodrigo Julian
     
-## Objetivo:
+## Objetivo General:
 
     Como equipo tenemos como objetivo brindar información clara para todo tipo de usuarios, dando diferente información como es: la localización,la temperatura y la       humedad ambiental, de igual manera de forma simultánea enviar esa información a la aplicación o 
     página web desarrollada para la clara interpretación de la información.
@@ -34,21 +34,10 @@
     
 ## Tabla de Hardware utilizado:
 
-    | Id  | Componente       | Descripción                              | Imagen      | Cantidad | Costo Total        |
-    |-----|------------------|------------------------------------------|-------------|----------------------------------------|--------------------|
-    | 1   | Tarjeta ESP32    | Es un microprocesador utilizado para el  |             | 1
-    |     |                  | intercambio de información, tiene        |
-    |     |                  | conectividad vía wi-fi y bluetooth       | 0.4        | Realizar pruebas en la funcionalidad   | Los integrantes del| 
-    | 2   | Sensor DHT22     | Alta      | 0.4        | Realizar la prueba con el entorno donde|                    |
-    |     |                  |           |            | el usuario se encuentre                |                    |
-    | 3   | Módulo GPS       | Media     | 0.2        | Realizar la prueba viendo que mande la |                    |
-    |     |                  |           |            | ubicación de donde se encuentra el     |                    |
-    |     |                  |           |            | usuario.                               |                    |
-    | 4   | ProtoBoard       | Media     | 0.2        | Realizar la prueba viendo que en       |                    |
-    |     |                  |           |            | pantalla aparezcan los datos de        |                    |
-    | 5   | Display LCD 20x4 |           |            | temperatura y humedad                  |                    |
+<img width="301" alt="Captura de pantalla 2022-09-27 234738" src="https://user-images.githubusercontent.com/104101668/192689875-57e8de6a-25bd-4f34-8507-42f579126bca.png">
 
-## Épica del proyecto
+
+## Épicas del proyecto
 
     El proyecto debe de mandar la temperatura del entorno donde se encuentra el usuario.
     El proyecto debe de localizar al usuario en cualquier parte donde se encuentre.
@@ -62,13 +51,13 @@
     |-----|----------------------------|-----------|------------|----------------------------------------|--------------------|
     | 1   | Funcionalidad del Proyecto | Alta      | 0.4        | Realizar pruebas en la funcionalidad   | Los integrantes del| 
     |     |                            |           |            | correcta de los sensores.              | equipo.            |
-    | 2   | Función Sensor DHT22       | Alta      | 0.4        | Realizar la prueba con el entorno donde|                    |
-    |     |                            |           |            | el usuario se encuentre                |                    |
-    | 3   | Función GPS                | Media     | 0.2        | Realizar la prueba viendo que mande la |                    |
-    |     |                            |           |            | ubicación de donde se encuentra el     |                    |
+    | 2   | Función Sensor DHT22       | Alta      | 0.4        | Realizar la prueba con el entorno donde| Los integrantes del|
+    |     |                            |           |            | el usuario se encuentre                | equipo.            |
+    | 3   | Función GPS                | Media     | 0.2        | Realizar la prueba viendo que mande la | Los integrantes del|
+    |     |                            |           |            | ubicación de donde se encuentra el     | equipo.            |
     |     |                            |           |            | usuario.                               |                    |
-    | 4   | Función LED                | Media     | 0.2        | Realizar la prueba viendo que en       |                    |
-    |     |                            |           |            | pantalla aparezcan los datos de        |                    |
+    | 4   | Función LED                | Media     | 0.2        | Realizar la prueba viendo que en       | Los integrantes del|
+    |     |                            |           |            | pantalla aparezcan los datos de        | equipo.            |
     |     |                            |           |            | temperatura y humedad                  |                    |
 
 ## Prototipo Dibujo:
