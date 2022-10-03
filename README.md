@@ -21,9 +21,9 @@
 | 3    | C        | C18     | Gratuito |
     
 ## Tabla de Hardware utilizado:
-| Id  | Historia de usuario        | Prioridad | Estimación | Como probarlo                          | Responsable        |
+| Id  | Componente       | Descripción | Imagen | Cantidad | Costo Total        |
 |-----|----------------------------|-----------|------------|----------------------------------------|--------------------|
-| 1   | Funcionalidad del Proyecto | Alta      | 0.4        | Realizar pruebas en la funcionalidad   | Los integrantes del| 
+| 1   | ESP32 | Es un microprocesador utilizado para el intercambio de información, tiene conectividad vía wi-fi y bluetooth|         | Realizar pruebas en la funcionalidad   | Los integrantes del| 
 |     |                            |           |            | correcta de los sensores.              | equipo.            |
 | 2   | Función Sensor DHT22       | Alta      | 0.4        | Realizar la prueba con el entorno donde| Los integrantes del|
 |     |                            |           |            | el usuario se encuentre                | equipo.            |
