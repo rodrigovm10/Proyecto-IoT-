@@ -23,9 +23,8 @@
 ## Tabla de Hardware utilizado:
 | Id  | Componente       | Descripción | Imagen | Cantidad | Costo Total        |
 |-----|----------------------------|-----------|------------|----------------------------------------|--------------------|
-| 1   | ESP32 | Es un microprocesador utilizado para el intercambio de información, tiene conectividad vía wi-fi y bluetooth|         | Realizar pruebas en la funcionalidad   | Los integrantes del| 
-|     |                            |           |            | correcta de los sensores.              | equipo.            |
-| 2   | Función Sensor DHT22       | Alta      | 0.4        | Realizar la prueba con el entorno donde| Los integrantes del|
+| 1   | ESP32 | Es un microprocesador utilizado para el intercambio de información, tiene conectividad vía wi-fi y bluetooth| ![ESP32](https://user-images.githubusercontent.com/104101668/193494837-3962f38c-7024-4e79-9c3d-f8164a010101.jpeg)| 1 |$150| 
+| 2   | Sensor de Gas| Alta      | 0.4        |1| $70|
 |     |                            |           |            | el usuario se encuentre                | equipo.            |
 | 3   | Función GPS                | Media     | 0.2        | Realizar la prueba viendo que mande la | Los integrantes del|
 |     |                            |           |            | ubicación de donde se encuentra el     | equipo.            |
