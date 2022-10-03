@@ -1,4 +1,4 @@
-# Proyecto-IoT - Seguridad
+# Proyecto-IoT - Sistema de Alarmas
 
 ## Integrantes:     
 - Cruz Breña Daniela Janeth
@@ -7,10 +7,15 @@
 - Vega Montoya Rodrigo Julian
     
 ## Objetivo General:
-
+Como objetivo tenemos brindar un producto que dará seguridad a una parte de la población puesto que se podrá adquirir en diferentes puntos de servicios, y brindara a su vez un estudio en tiempo real de las condiciones del ambiente, nuestro producto contará con cuatro sensores, uno de fuego, movimiento, gas y uno de sonido los cuales detectara cualquier emergencia y lo notificará al cliente a través de la aplicación. Lo anterior con el fin de mantener al usuario informado sobre las condiciones en las que se encuentra el entorno donde decida utilizar el producto ya sea hogar, negocio, etc.
    
 ## Objetivos específicos:
-
+- La aplicación notificará cuando cualquier alarma del dispositivo sea encendida
+- El usuario tendrá la capacidad de apagar las alarmas desde la aplicación
+- El producto detectará la existencia de gases tóxicos en el ambiente y notificará al usuario a través de la aplicación, una alarma y un led rojo.
+- El producto detectará la existencia de fuego en el ambiente y notificará al usuario a través de la aplicación, una alarma y un led rojo.
+- El producto detectará movimiento alrededor de él y notificará al usuario a través de la aplicación y encenderá una luz al detectar movimiento
+- El producto detectará sonido que se encuentre a su alrededor activando una luz para avisar que el sensor fue activado
 
 ## Tabla de Software utilizado:
 
@@ -32,26 +37,23 @@
 |7|Buzzer|Un 'zumbador es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono. Sirve como mecanismo de señalización o aviso y se utiliza en múltiples sistemas, como en automóviles o en electrodomésticos, incluidos los despertadores.|![buzzer](https://user-images.githubusercontent.com/104101668/193496659-837ea7bf-724e-4c95-b04d-2f5e2b35bede.jpg)|1|$50-$80|
 |8|Led Verde|El Led verde está compuesto por GaP. Se utiliza el método de crecimiento epitaxial del cristal en fase líquida para formar la unión p-n|![led verde](https://user-images.githubusercontent.com/104101668/193497993-19642774-4a18-4d78-8f7f-3a2bbe9cd37b.jpg)|1|$2-$10|
 |9|Led rojo|Es un componente optoelectrónico pasivo. Su funcionamiento está basado en el efecto de la Electro-Luminiscencia, en la cual mediante una estimulación directa de polarización permite a este dispositivo liberar energía en forma de un fotón, cuyo color está determinado por la banda de energía que haya sido estimulada.|![led rojo](https://user-images.githubusercontent.com/104101668/193497989-3a78ba55-d55e-4141-b9a1-d6462eb1fbd1.jpg)|1|$2-$10|
-|10|Foco|En iluminación, un foco o proyector es un elemento óptico destinado a proyectar la luz de una lámpara hacia una región concreta o espacio determinado. Principalmente se usan para iluminar instalaciones deportivas, alumbrado ornamental de edificios emblemáticos, publicidad y seguridad||1 o 2|$80-$120
+|10|Foco|En iluminación, un foco o proyector es un elemento óptico destinado a proyectar la luz de una lámpara hacia una región concreta o espacio determinado. Principalmente se usan para iluminar instalaciones deportivas, alumbrado ornamental de edificios emblemáticos, publicidad y seguridad|![foco](https://user-images.githubusercontent.com/104101668/193499129-55af0e96-cb2a-459f-a88f-36d9ca0b1c31.jpg)|1 o 2|$80-$120
 
 ## Épicas del proyecto
-
+- Un usuario se encuentra fuera de su hogar y recibe una notificación de fuego en su hogar.
+- Un hombre se encuentra en su centro laboral, recibe una notificación de movimiento en su hogar, finalmente se trata de un robo.
+- Una mujer regresa a su hogar luego de recibir una notificación de la casa de su abuelo un  adulto de la tercera edad se encuentra en su hogar y dejó las llaves de la estufa abiertas y el sensor notificó la presencia de gases tóxicos en el ambiente
+- Un hombre llega a su hogar de noche y no encuentra el apagador de la luz, pero de la nada se enciende gracias a que el usuario produjo un sonido alto que encendió las luces.
 
 ## Tabla de historia del usuario
 | Id  | Historia de usuario        | Prioridad | Estimación | Como probarlo                          | Responsable        |
 |-----|----------------------------|-----------|------------|----------------------------------------|--------------------|
-| 1   | Funcionalidad del Proyecto | Alta      | 0.4        | Realizar pruebas en la funcionalidad   | Los integrantes del| 
-|     |                            |           |            | correcta de los sensores.              | equipo.            |
-| 2   | Función Sensor DHT22       | Alta      | 0.4        | Realizar la prueba con el entorno donde| Los integrantes del|
-|     |                            |           |            | el usuario se encuentre                | equipo.            |
-| 3   | Función GPS                | Media     | 0.2        | Realizar la prueba viendo que mande la | Los integrantes del|
-|     |                            |           |            | ubicación de donde se encuentra el     | equipo.            |
-|     |                            |           |            | usuario.                               |                    |
-| 4   | Función LED                | Media     | 0.2        | Realizar la prueba viendo que en       | Los integrantes del|
-|     |                            |           |            | pantalla aparezcan los datos de        | equipo.            |
-|     |                            |           |            | temperatura y humedad                  |                    |
+| 1   | Funcionalidad del sensor de fuego |Alta| 3 semanas| Realizar pruebas con un encendedor.| Integrantes del Equipo|       
+| 2   | Funcionalidad del sensor de gas| Alta | 3 semanas| Realizar prueas con un gas LP|Integrantes del Equipo|
+| 3   | Funcionalidad del sensor de movimiento|Alta|3 semanas        | Realizar pruebas con ciertos movimientos para probar el foco|Integrantes del Equipo|
+| 4   | Función del sensor de sonido| Alta| 4 semanas| Realizar pruebas con distintos tipos de sonidos para calibrar el sensor|Integrantes del Equipo|
 
 ## Prototipo Dibujo:
-![Captura de pantalla (14)](https://user-images.githubusercontent.com/104101668/192689498-54ab7eb1-9f51-4c97-a00b-28d5eb9976f5.png)
+
 
 
