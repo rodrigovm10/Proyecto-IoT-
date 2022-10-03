@@ -54,6 +54,7 @@ Como objetivo tenemos brindar un producto que dará seguridad a una parte de la 
 | 4   | Función del sensor de sonido| Alta| 4 semanas| Realizar pruebas con distintos tipos de sonidos para calibrar el sensor|Integrantes del Equipo|
 
 ## Prototipo Dibujo:
+![boceto](https://user-images.githubusercontent.com/104101668/193502489-52f58469-e364-4894-9f7e-390cbd447590.jpeg)
 
 
 
